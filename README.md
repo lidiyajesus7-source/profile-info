@@ -43,7 +43,7 @@ I completed my B.Tech from chadhalawada ramanamma engineering college, tirupati 
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikatewary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidurga&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Saidurga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidurga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saidurga &theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
