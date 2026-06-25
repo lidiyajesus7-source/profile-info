@@ -2,7 +2,7 @@
     Java fullstack Developer👩‍💻</h1>
 <br>
 
-I completed my B.Tech from chadhalawada ramanamma engineering college, tirupati in the stream of computer science and Engineering with aggregate of 8.3CGPA
+I completed my B.Tech from chadhalawada ramanamma engineering college, tirupati in the stream of computer science and Engineering with aggregate of 8.3CGPA Iam passionate about learning new technologies,enhancing my programming skills,and developing efficient software solutions I also Completed a web development internship,which strengthened my analytical thinking,problem solving skills and technical skills
 
 <br>
 
