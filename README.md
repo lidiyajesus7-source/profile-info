@@ -9,10 +9,11 @@ I completed my B.Tech from chadhalawada ramanamma engineering college, tirupati 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning java fullstack 
+- 🌱 I’m currently learning java fullstack in Destination career,Bangalore 
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: lidiyajesus7@gmail.com
 - ⚡ Fun fact: I like painting
+  
 
 <br>
 
